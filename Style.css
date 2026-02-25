@@ -1,0 +1,210 @@
+.home{
+    height: 100vh;
+    background-color: orange;
+    background-size: 100% 100%;
+    background-position: center center;
+    overflow: auto;
+}
+.home-container{
+    width: 90%;
+    margin: auto;
+}
+.nav-img{
+    width: 15%;
+    float: left;
+    margin-top: 10px;
+}
+.nav-img img{
+    width: 90%;
+}
+.nav-links ul{
+    float: right;
+    margin-top: 10px;
+}
+.nav-links ul li{
+    list-style-type: none;
+    float: left;
+    padding: 15px;
+}
+.home-content{
+    text-align: center;
+    color: white;
+    margin-top: 11%;
+}
+.home-content p{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.home-content h1{
+    margin: 15px 0px 20px;
+    font-family: cursive;
+    font-size: 76px;
+}
+.home-content .bttn{
+    color: white;
+    border-radius: 3px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.bttn1{
+    border: none;
+    background-color: rgb(125, 51, 5);
+    
+}
+.bttn2{
+    background-color: transparent;
+    border: solid 1px white;
+}
+.Sec2{
+    background-color: white;
+    margin: 20px;
+    padding: 25px;
+}
+.Sec2 img{
+    width: 350px;
+}
+.Cont2{
+    width: 500px;
+    display: inline-block;
+    margin-left: 50px;
+}
+/* .Cont2 h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+.Cont2 p{
+    margin: 50px 0px;
+    font-size: 17px;
+    line-height: 30px;
+}
+.Sec3{
+    margin-top: 50px;
+    background-color: wheat;
+}
+.Row3{
+    margin: 50px;
+    padding: 50px;
+    text-align: end;
+}
+.Our_Location{
+    width: 500px;
+    margin-right: 50px;
+    display: inline-block;
+    line-height: 35px;
+}
+.Our_Location h2{
+    margin-bottom: 25px;
+    font-size: 32px;
+}
+.Our_Location p{
+    font-size: 17px;
+    font-weight: 400px;
+    margin-top: 100px;
+}
+.Sec3 img{
+    width: 500px;
+}
+.Sec4{
+    margin: 30px;
+    background-color: white;
+}
+.Head{
+    text-align: center;
+    margin: 40px;
+}
+.Head h2{
+    padding-top: 20px;
+    margin: 30px;
+}
+.Menu{
+    width: 90%;
+    /* margin: 20px 0px; */
+    margin: auto;
+}
+.Main_Dish{
+    width: 32%;
+    float: left;
+    margin: 0px 5px;
+    text-align: center;
+    line-height: 30px;
+}
+.Main_Dish img{
+    width: 100%;
+    height: 300px;
+}
+.Main_Dish h2{
+    padding: 20px;
+}
+.Clear-fix{
+    clear: both;
+}
+.Sec5{
+    /* padding-bottom: 20px; */
+    padding: 50px;
+    margin-top: 40%;
+    background-color: wheat;
+}
+.Contact_Information{
+    padding: 30px;
+    width: 40%;
+    line-height: 40px;
+    float: left;
+}
+.Contact_Information h2{
+    padding-bottom: 20px;
+    font-size: 32px;
+}
+.Contact_Information p{
+    padding-bottom: 20px;
+    font-size: 17px;
+}
+.Sec6{
+    background-color: rgb(78, 55, 48);
+    color: white;
+}
+.Container{
+    width: 90%;
+    /* margin: 30px 0px; */
+    margin: auto;
+    padding-top: 50px;
+}
+.Extra{
+    width: 20%;
+    float: left;
+    margin-left: 40px;
+    line-height: 30px;
+}
+.Extra h3{
+    margin-bottom: 15px;
+    color: white;
+}
+.Extra p{
+    color: rgb(141, 108, 97);
+}
+.Extra span{
+    color: rgb(141, 108, 97);
+}
+.Extra hr{
+    margin: 10px 0px;
+    border: 0px;
+    height: 1px;
+    background: rgb(33, 33, 33);
+    background-image: linear-gradient(to right, rgb(240, 239, 239), rgb(33, 33, 33), rgb(240, 239, 239));
+    color: rgb(141, 108, 97);
+}
+.Sec7{
+    background-color: rgb(49, 34, 30);
+    text-align: center;
+    height: 250px;
+    line-height: 10px;
+    padding: 50px;
+    /* margin-bottom: 50px; */
+}
+.Sec7 img{
+    width: 260px;
+    height: 210px;
+}
+.Sec7 p{
+    color: rgb(141, 108, 97);
+}
